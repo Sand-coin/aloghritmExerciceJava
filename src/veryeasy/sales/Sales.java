@@ -1,4 +1,4 @@
-package sales;
+package veryeasy.sales;
 
 public class Sales {
     // price = 1500 percentage = 50 Comments

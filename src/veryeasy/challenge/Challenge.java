@@ -1,4 +1,4 @@
-package challenge;
+package veryeasy.challenge;
 
 public class Challenge {
     public static int equal(int a, int b, int c) {

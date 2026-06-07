@@ -3,12 +3,11 @@ package veryeasy.challenge;
 public class Challenge {
     public static int equal(int a, int b, int c) {
         if (a == b && b == c) {
-            return 3;// ANSWER
+            return 3;
         }
-        if (a == b || a == c || b == c) {
+        else if (a == b || a == c || b == c) {
             return 2;
-        } else {
-            return 0;
         }
+        return 0;
     }
 }
